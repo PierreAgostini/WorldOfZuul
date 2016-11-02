@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package WorldOfZuul;
 
 /**
  * Blablac !!
  * @author Group 5
  */
-public class JavaApplication1 {
+public class Test {
 
     /**
      * @param args the command line arguments
