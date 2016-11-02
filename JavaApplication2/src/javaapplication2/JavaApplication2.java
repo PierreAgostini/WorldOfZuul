@@ -7,7 +7,7 @@ package javaapplication2;
 
 /**
  *
- * @author ARGONIS
+ * @author ARGONIS THE DRAGON MASTER
  */
 public class JavaApplication2 {
 
