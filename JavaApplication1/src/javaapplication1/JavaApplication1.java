@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author delph
+ * @author Group 5
  */
 public class JavaApplication1 {
 
