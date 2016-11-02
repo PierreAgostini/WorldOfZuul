@@ -8,7 +8,7 @@ package WorldOfZuul;
 /**
  * Blablac !!
  * Delphine parle en commentaire
- * @author Group 5
+ * @author ARGONIS, KING OF DRAGONS
  */
 public class Test {
 
