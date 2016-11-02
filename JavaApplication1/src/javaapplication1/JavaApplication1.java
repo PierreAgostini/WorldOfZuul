@@ -6,7 +6,7 @@
 package javaapplication1;
 
 /**
- *
+ * Blablac !!
  * @author Group 5
  */
 public class JavaApplication1 {
